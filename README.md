@@ -49,6 +49,7 @@ To run the solver:
 
 1. Copy the Lisp code into a Common Lisp REPL or environment.  
 2. Run the planner (final lines in the file usually trigger the execution).
+   
    Plan Found: ((PICKUP B) (STACK B C) (PICKUP A) (STACK A B))
 
 -----------
@@ -109,4 +110,3 @@ To run the solver:
 #### Example Output
 Plan Found: (FILL-3-GAL POUR-3-TO-4 FILL-3-GAL POUR-3-TO-4)
 
-#### Example Output
